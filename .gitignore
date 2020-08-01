@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 *.csv
+=======
+DS_Store.ds
+Police Dataset/
+*.csv
+>>>>>>> 55fd07f1d34156ea0681d1ad20ef5f87c14c0eb4
